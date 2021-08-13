@@ -1,14 +1,12 @@
 # asyncforeach
 
-Utility to execute an asynchronous function sequentially in forEach for an array
+Utilidad para ejecutar una función asíncrona secuencialmente en forEach para un array
 
 ```
 npm install asyncforeach_pe
 ```
 
-[🇵🇪 Spanish - Español](https://github.com/confluxpe/asyncforeach/blob/main/README.ES.md)
-
-## Usage
+## Uso
 
 ```
 var asyncForEach = require('asyncforeach_pe');
