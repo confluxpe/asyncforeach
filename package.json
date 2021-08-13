@@ -1,6 +1,6 @@
 {
 	"name": "asyncforeach_pe",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Execute an asynchronous function sequentially in forEach for an array.",
 	"main": "index.js",
 	"scripts": {
